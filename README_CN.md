@@ -1,4 +1,4 @@
-# VerseMind-RAG
+# Alphatok-RAG
 
 **诗意与智慧的交融**
 
@@ -7,7 +7,7 @@
   <a href="README_CN.md">简体中文</a>
 </p>
 
-VerseMind-RAG 是一个文档智能与语义生成系统，提供完整的 RAG（检索增强生成）解决方案，支持文档加载、分块、解析、向量嵌入、索引、语义搜索与文本生成。
+Alphatok-RAG 是一个文档智能与语义生成系统，提供完整的 RAG（检索增强生成）解决方案，支持文档加载、分块、解析、向量嵌入、索引、语义搜索与文本生成。
 
 ## 功能特点
 
@@ -39,7 +39,7 @@ VerseMind-RAG 是一个文档智能与语义生成系统，提供完整的 RAG�
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/topgoer/VerseMind-RAG.git
+   git clone https://github.com/AlphaTok-Singapore/VerseMind-RAG.git
    cd VerseMind-RAG
    ```
 

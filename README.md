@@ -1,6 +1,6 @@
-[![CI](https://github.com/topgoer/VerseMind-RAG/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/topgoer/VerseMind-RAG/actions/workflows/ci.yml)
+[![CI](https://github.com/AlphaTok-Singapore/VerseMind-RAG/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AlphaTok-Singapore/VerseMind-RAG/actions/workflows/ci.yml)
 
-# VerseMind-RAG
+# Alphatok-RAG
 
 **Where Poetry Meets AI**
 
@@ -9,16 +9,16 @@
   <a href="README_CN.md">简体中文</a>
 </p>
 
-VerseMind-RAG is a document intelligence and semantic generation system designed to provide a complete RAG (Retrieval-Augmented Generation) solution. It supports document loading, chunking, parsing, vector embedding, indexing, semantic search, and text generation.
+Alphatok-RAG is a document intelligence and semantic generation system, providing a complete RAG (Retrieval-Augmented Generation) solution that supports document loading, chunking, parsing, vector embedding, indexing, semantic search, and text generation.
 
 ## Features
 
-- **Document Processing**: Load, chunk, and parse documents for structured content.
-- **Vector Embedding**: Generate embeddings for semantic search.
-- **Semantic Search**: Retrieve relevant content based on user queries.
-- **Text Generation**: Generate responses using advanced AI models.
-- **Modular Design**: Easily extensible with support for multiple models and vector databases.
-- **Dynamic Model Configuration**: Centralized model management system for consistent model selection across components.
+- **Document Processing**: Load, chunk, and parse document content
+- **Vector Embedding**: Generate semantic vectors for retrieval
+- **Semantic Search**: Retrieve relevant content based on natural language queries
+- **Text Generation**: Generate responses using advanced large models
+- **Modular Design**: Flexible extension with multiple models and vector databases
+- **Dynamic Model Configuration**: Centralized model management, consistent across frontend and backend
 
 ## System Architecture
 
@@ -41,7 +41,7 @@ VerseMind-RAG is a document intelligence and semantic generation system designed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/topgoer/VerseMind-RAG.git
+   git clone https://github.com/AlphaTok-Singapore/VerseMind-RAG.git
    cd VerseMind-RAG
    ```
 
@@ -291,18 +291,6 @@ For detailed usage instructions, sample queries, and best practices, please refe
 For detailed documentation, refer to:
 - [System Architecture Design](./docs/VerseMind-RAG%20系统架构设计.md)
 - [User Guide](./docs/user_guide.md)
-
-## Contributing
-
-Contributions to VerseMind-RAG are welcome! Here's how you can contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please ensure your code passes all tests before submitting a pull request.
 
 ## Contributing
 

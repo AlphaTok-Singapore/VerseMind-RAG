@@ -5,9 +5,9 @@ import PropTypes from 'prop-types';
 const translations = {
   en: {
     // 通用
-    appTitle: 'VerseMind-RAG',
+    appTitle: 'Alphatok-RAG',
     appSlogan: 'Where Poetry Meets AI',
-    copyright: '© 2025 VerseMind',
+    copyright: '© 2025 Alphatok',
     providerLabel: 'Provider',
     modelLabel: 'Model',
     download: 'Download',
@@ -269,7 +269,7 @@ const translations = {
     references: 'References',
     messagesCount: '{count} messages',
     startConversation: 'Start a conversation',
-    welcomeMessage: 'Welcome to VerseMind-RAG! Select collection and ask questions about your documents.',
+    welcomeMessage: 'Welcome to Alphatok-RAG! Select collection and ask questions about your documents.',
     selectIndexFirst: 'Please select a collection first',
     chatError: 'An error occurred while processing your request',
     attachedDocument: 'Attached Document',
@@ -304,9 +304,9 @@ const translations = {
   },
   zh: {
     // 通用
-    appTitle: 'VerseMind-RAG',
+    appTitle: 'Alphatok-RAG',
     appSlogan: '诗意与智慧的交融',
-    copyright: '© 2025 VerseMind',
+    copyright: '© 2025 Alphatok',
     providerLabel: '提供商',
     modelLabel: '模型',
     download: '下载',
@@ -568,7 +568,7 @@ const translations = {
     references: '参考文献',
     messagesCount: '{count} 条消息',
     startConversation: '开始对话',
-    welcomeMessage: '欢迎使用 VerseMind-RAG！请选择集合并就您的文档提问。',
+    welcomeMessage: '欢迎使用 Alphatok-RAG！请选择集合并就您的文档提问。',
     selectIndexFirst: '请先选择一个集合',
     chatError: '处理您的请求时发生错误',
     attachedDocument: '附加文档',

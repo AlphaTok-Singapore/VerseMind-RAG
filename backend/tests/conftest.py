@@ -13,7 +13,7 @@ from app.utils.test_cleanup import TestFileCleanup, cleanup_test_files
 sys.path.append(str(Path(__file__).parent.parent))
 
 # Add the backend directory to the Python path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 # Set the TEST_ENV environment variable to enable test-specific behavior
 os.environ["TEST_ENV"] = "true"

@@ -1,6 +1,6 @@
 [![CI](https://github.com/AlphaTok-Singapore/VerseMind-RAG/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AlphaTok-Singapore/VerseMind-RAG/actions/workflows/ci.yml)
 
-# Alphatok-RAG
+# AlphaMind
 
 **Where Poetry Meets AI**
 
@@ -9,7 +9,7 @@
   <a href="README_CN.md">简体中文</a>
 </p>
 
-Alphatok-RAG is a document intelligence and semantic generation system, providing a complete RAG (Retrieval-Augmented Generation) solution that supports document loading, chunking, parsing, vector embedding, indexing, semantic search, and text generation.
+AlphaMind is a document intelligence and semantic generation system, providing a complete RAG (Retrieval-Augmented Generation) solution that supports document loading, chunking, parsing, vector embedding, indexing, semantic search, and text generation.
 
 ## Features
 

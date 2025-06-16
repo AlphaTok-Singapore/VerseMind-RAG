@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const translations = {
   en: {
     // 通用
-    appTitle: 'Alphatok-RAG',
+    appTitle: 'AlphaMind',
     appSlogan: 'Where Poetry Meets AI',
     copyright: '© 2025 Alphatok',
     providerLabel: 'Provider',
@@ -269,7 +269,7 @@ const translations = {
     references: 'References',
     messagesCount: '{count} messages',
     startConversation: 'Start a conversation',
-    welcomeMessage: 'Welcome to Alphatok-RAG! Select collection and ask questions about your documents.',
+    welcomeMessage: 'Welcome to AlphaMind! Select collection and ask questions about your documents.',
     selectIndexFirst: 'Please select a collection first',
     chatError: 'An error occurred while processing your request',
     attachedDocument: 'Attached Document',
@@ -304,7 +304,7 @@ const translations = {
   },
   zh: {
     // 通用
-    appTitle: 'Alphatok-RAG',
+    appTitle: 'AlphaMind',
     appSlogan: '诗意与智慧的交融',
     copyright: '© 2025 Alphatok',
     providerLabel: '提供商',
@@ -568,7 +568,7 @@ const translations = {
     references: '参考文献',
     messagesCount: '{count} 条消息',
     startConversation: '开始对话',
-    welcomeMessage: '欢迎使用 Alphatok-RAG！请选择集合并就您的文档提问。',
+    welcomeMessage: '欢迎使用 AlphaMind！请选择集合并就您的文档提问。',
     selectIndexFirst: '请先选择一个集合',
     chatError: '处理您的请求时发生错误',
     attachedDocument: '附加文档',
